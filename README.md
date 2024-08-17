@@ -17,3 +17,32 @@ The E-Waste Monitoring System is a console-based application designed to facilit
 **1. Customer Reporting**:
 - Select option 1 to report e-waste.
 - Enter the description and location of the e-waste.
+- Customer will recieve message that succesfully reported.
+
+
+<p align="center">
+  <img src="Outputs/2-Report.png" alt="Main Menu">
+</p>
+
+**2. Company Tracking**:
+- Select option 2 to track e-waste.
+- Only company staff can access this due to authentication.
+- Enter the company password.
+- If the password is correct, the system displays all report IDs.
+- Choose the ID to track and details will be displayed
+
+<p align="center">
+  <img src="Outputs/3-Track.png" alt="Main Menu">
+</p>
+
+**3.Company Recycling**
+- Select option 3 to recycle e-waste.
+- Only company staff can access this due to authentication.
+- Enter the company password.
+- If the password is correct, the system displays all report IDs.
+- Choose the ID to recycle and status will be displayed.
+- If already recycled then it says 'E-waste has already been recycled.'
+
+<p align="center">
+  <img src="Outputs/4-Recycle.png" alt="Main Menu">
+</p>
