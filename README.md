@@ -15,5 +15,5 @@ The E-Waste Monitoring System is a console-based application designed to facilit
 
 ## Usage
 **1. Customer Reporting**:
--Select option 1 to report e-waste.
--Enter the description and location of the e-waste.
+- Select option 1 to report e-waste.
+- Enter the description and location of the e-waste.
