@@ -9,7 +9,7 @@ The E-Waste Monitoring System is a console-based application designed to facilit
 - **Company Tracking**: Company staff can track the status of reported e-waste items (requires authentication).
 - **Company Recycling**: Company staff can mark reported e-waste items as recycled (requires authentication).
 
-
+`(Outputs/1-Main menu.png)`
 
 ## Usage
 **1. Customer Reporting**:
